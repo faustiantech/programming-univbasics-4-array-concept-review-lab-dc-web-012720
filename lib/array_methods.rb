@@ -7,6 +7,7 @@ def find_element_index(array, value_to_find)
       return i
     end
     if bo = 0 return nil
+    end
   end
 end
 
